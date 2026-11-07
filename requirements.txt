@@ -1,0 +1,10 @@
+cerebras-cloud-sdk
+aiohttp
+yt-dlp
+python-dotenv
+imageio-ffmpeg
+ddgs
+PyNaCl
+davey
+curl-cffi
+discord.py
