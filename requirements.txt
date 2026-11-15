@@ -1,10 +1,8 @@
-cerebras-cloud-sdk
-aiohttp
-yt-dlp
-python-dotenv
-imageio-ffmpeg
-ddgs
-PyNaCl
+discord.py[voice]>=2.6
 davey
-curl-cffi
-discord.py
+yt-dlp
+aiohttp
+python-dotenv
+cerebras-cloud-sdk
+ddgs
+imageio-ffmpeg
