@@ -3,6 +3,6 @@ davey
 yt-dlp
 aiohttp
 python-dotenv
-cerebras-cloud-sdk
+openai>=1.40
 ddgs
 imageio-ffmpeg
